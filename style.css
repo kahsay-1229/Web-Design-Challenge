@@ -6,6 +6,9 @@ body{
     background-color: #EDEDED; 
 }
 
+.desciption-head {
+	line-height: 3;
+}
 .navbar{
     max-height: 50px; 
 	background-color: #cbcacc; 
